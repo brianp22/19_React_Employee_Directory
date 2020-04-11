@@ -1,7 +1,7 @@
 import React from "react";
 import API from "../utils/api.js"
 import Search from "../components/searchBar"
-import "../styles/table.css"
+import "../styles/Table.css"
 
 import DateFormat from 'dateformat';
 
