@@ -8,13 +8,14 @@ const SearchBar = (props) => {
     <div className="form-group search-widget">
       <div className="input-group mb-3">
   
-        <input
+        <input 
+          style={{width: '100%'}}
           onChange={props.handleInputChange}
           value={props.search}
           name="search"
           type="text"
           className="form-control"
-          placeholder='Search directory for Employee'
+          placeholder='Search for Employees!'
           id="search"
         />
       </div>

@@ -1,8 +1,9 @@
   
 .jumbotron {
-    height: 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 250px;
     color: white;
-    background-color: #2CBBD8;
+    background-color: green;
     display: flex;
     align-items: center;
     align-content: center;
